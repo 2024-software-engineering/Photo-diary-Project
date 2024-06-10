@@ -4,9 +4,9 @@
 
 ## 🦹‍ Team
 |박성재|우승연|
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|
 |Frontend, Backend|Frontend,Backend|
-|---|[wooxxo](https://github.com/wooxxo)|
+|[sem201](https://github.com/sem201)|[wooxxo](https://github.com/wooxxo)|
 
 
 ## 기술스택
