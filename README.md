@@ -8,6 +8,8 @@
 |Frontend, Backend|Frontend,Backend|
 |[sem201](https://github.com/sem201)|[wooxxo](https://github.com/wooxxo)|
 
+## 기능 설명
+
 
 ## 기술스택
  frontend : HTML/CSS/JavaScript/Flask
