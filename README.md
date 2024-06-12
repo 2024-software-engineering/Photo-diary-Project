@@ -17,4 +17,5 @@
 
 ## 기술스택
  frontend : HTML/CSS/JavaScript/Flask 
+ 
  backend : SQLITE3
