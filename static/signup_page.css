@@ -1,0 +1,87 @@
+@font-face {
+    font-family: 'Pretendard-Regular';
+    src: url('https://fastly.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+body {
+    font-family: 'Pretendard-Regular';
+}
+#top{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #272424;
+    color : #FFFFFF;
+    height: 62px;
+    font-size : 20px;
+}
+
+#main_signup_container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#camera_img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    width: 180px;
+    height: 180px;
+}
+
+#signup_container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#signup_text {
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+input {
+    font-size: 24px;
+}
+
+input::placeholder {
+    font-size: 24px;
+    padding-left: 10px;
+    font-family: 'Pretendard-Regular';
+}
+
+.text_area {
+    width: 831px;
+    height: 80px;
+    margin-bottom: 5px;
+}
+
+#error_text {
+    align-self: flex-start;
+    color: #D64141;
+}
+
+#signup_btn {
+    margin-top: 30px;
+    background-color: #FFFFFF;
+    border: 1px solid #272424;
+    font-size: 30px;
+    color: #272424;
+    font-family: 'Pretendard-Regular';
+}
