@@ -15,6 +15,9 @@
 4. DM 보내기 / 응답 / 삭제
 5. 키워드 검색
 
+## 실행 방법
+terminal 창에서 "Python signup.py" 실행
+
 ## 기술스택
  frontend : HTML/CSS/JavaScript/Flask 
  
