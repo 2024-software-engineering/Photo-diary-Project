@@ -61,7 +61,7 @@ def check_user():
                     session['user_nickname'] = user[1]
                     return redirect(url_for('mainpage'))
                 else:
-                    return render_template("loginpage.html")
+                    return render_template("login_page.html")
 
 #사진 디테일 페이지로 리다이렉트
 @app.route('/photo_detail/<int:item_id>')
